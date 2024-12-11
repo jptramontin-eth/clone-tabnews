@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jptramontin-eth/clone-tabnews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jptramontin-eth/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/jptramontin-eth/clone-tabnews#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
