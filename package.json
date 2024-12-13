@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "next build",
+    "start": "next start",
     "dev": "next dev"
   },
   "repository": {
